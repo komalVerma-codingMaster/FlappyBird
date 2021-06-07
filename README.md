@@ -1,1 +1,1 @@
-# This is FlappyBird using Pygame module in PythoN high-level programming language
+# Here is FlappyBird Game for you using Pygame module in Python programming language
